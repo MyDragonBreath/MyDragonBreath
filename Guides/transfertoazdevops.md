@@ -40,6 +40,7 @@ Your username is that of your microsoft account's,
 The PAT can be found at
 `https://dev.azure.com/USER/_git/PROJECT` when you press on the `clone` button in the top right, and press `generate git credentials`
 Otherwise, press in the top right on the `user settings` button, click on `personal access tokens` and make sure the following is set 
+
 ![image](https://github.com/MyDragonBreath/MyDragonBreath/assets/38029594/39d1a44f-a4c6-4c06-9161-99db191b3964)
 
 SSH tokens can also be generated from the `user settings` menu, which wont require re-entering the PAT
